@@ -20,7 +20,7 @@ I am a Full-Stack Developer based in Texas, U.S.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs)](https://skillicons.dev)
 
 <br/>
 
