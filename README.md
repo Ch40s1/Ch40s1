@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Ch40s1/Ch40s1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi! My name is Daniel Zarate 😄
+========================================================================================================================================
+
+I am a Full-Stack Developer based in Texas, U.S.
+<br/>
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs)](https://skillicons.dev)
+
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/daniel-zarate-66816113b/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
