@@ -25,7 +25,7 @@ I am a Full-Stack Developer based in Texas, U.S.
 <br/>
 
 # Check out my work! 💯
-[<img src="./img/wheelsOnDemand.png" alt="websiteImage" width="500px" height="300">](https://wheels-on-demand-83c5de82a3da.herokuapp.com/){:target="_blank"}
+[<img src="./img/wheelsOnDemand.png" alt="websiteImage" width="500px" height="300">](https://wheels-on-demand-83c5de82a3da.herokuapp.com/)
 
 
 
