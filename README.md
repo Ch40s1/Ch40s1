@@ -20,9 +20,23 @@ I am a Full-Stack Developer based in Texas, U.S.
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,mongodb,express,react,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,mongodb,express,react,nodejs,apollo,graphql)](https://skillicons.dev)
 
 <br/>
+
+# Check out my work! 💯
+<a href="https://wheels-on-demand-83c5de82a3da.herokuapp.com/" target="blank" class="work">
+    <img src="./img/wheelsOnDemand.png" alt="websiteImage" width="500px" height="300" style="transition: transform 0.3s;">
+</a>
+
+<style>
+    .work:hover img {
+        transform: scale(1.1); /* Adjust the scale factor as needed */
+    }
+</style>
+
+
+
 
 ### Socials
 
