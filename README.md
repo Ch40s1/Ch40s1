@@ -29,15 +29,6 @@ I am a Full-Stack Developer based in Texas, U.S.
     <img src="./img/wheelsOnDemand.png" alt="websiteImage" width="500px" height="300" style="transition: transform 0.3s;">
 </a>
 
-<style>
-    .work:hover img {
-        transform: scale(1.1); /* Adjust the scale factor as needed */
-    }
-</style>
-
-
-
-
 ### Socials
 
 <div id="badges">
