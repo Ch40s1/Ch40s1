@@ -15,14 +15,19 @@ Here are some ideas to get you started:
 Hi! My name is Daniel Zarate 😄
 ========================================================================================================================================
 
-I am a Full-Stack Developer based in Texas, U.S.
+I am a Full-Stack Developer based in Dallas Tx, U.S.
 <br/>
 
-### Skills
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,java,mongodb,express,react,nodejs,apollo,graphql)](https://skillicons.dev)
-
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,go)](https://skillicons.dev)
+<br />
+* Most comftarble in: [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 <br/>
+
+### Frameworks
+[![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,mongodb,express,react,nodejs,apollo,graphql)](https://skillicons.dev)
+<br />
+* Most comftarble in: [![My Skills](https://skillicons.dev/icons?i=tailwind,react)](https://skillicons.dev)
 
 # Check out my work! 💯
 [<img src="./img/wheelsOnDemand.png" alt="websiteImage" width="500px" height="300">](https://wheels-on-demand-83c5de82a3da.herokuapp.com/)
