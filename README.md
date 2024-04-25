@@ -37,10 +37,10 @@ I am a Full-Stack Developer based in Dallas Tx, U.S.
 
 <br>
 
-#### Ecommerce: Clothing Store
-[<img src="./img/NextStore.png" alt="website image" width="500px" heigth="300">](https://next-store-psi-rouge.vercel.app/)
+#### Static Site Generator
+[static-site-generator](https://github.com/Ch40s1/static_site_generator)
 * Tech used:
- [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 
 ### Socials
