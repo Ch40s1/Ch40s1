@@ -41,6 +41,7 @@ link ➡️ [maze solver](https://github.com/Ch40s1/maze-solver)
 
 <br>
 
+
 ## Static Site Generator
 <img src="./images/static-site.png" alt="maze animation" width="500" height="500">
 
@@ -49,6 +50,12 @@ link ➡️ [static-site-generator](https://github.com/Ch40s1/static_site_genera
 * Tech used:
  [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
+
+
+#### Static Site Generator
+[static-site-generator](https://github.com/Ch40s1/static_site_generator)
+* Tech used:
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
 
 
 
