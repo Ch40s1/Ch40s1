@@ -12,16 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi! My name is Daniel Zarate 😄
+# Hi! My name is Daniel Zarate 😄
 ========================================================================================================================================
 
 I am a Full-Stack Developer based in Dallas Tx, U.S.
 <br/>
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,python,go)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,python,go)](https://skillicons.dev)
 <br />
-* Most comftarble in: [![My Skills](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+* Most comftarble in: [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 <br/>
 
 ### Frameworks
@@ -29,18 +29,27 @@ I am a Full-Stack Developer based in Dallas Tx, U.S.
 <br />
 * Most comftarble in: [![My Skills](https://skillicons.dev/icons?i=tailwind,react)](https://skillicons.dev)
 
-# Check out my work! 💯
- #### Ecommerce: Vehicle Renting
-[<img src="./img/wheelsOnDemand.png" alt="website image" width="500px" height="300">](https://wheels-on-demand-83c5de82a3da.herokuapp.com/)
+## Check out my work! 💯
+
+## Maze Solver
+<img src="./gifs/mazegif.gif" alt="maze animation" width="500" height="300">
+
+link ➡️ [maze solver](https://github.com/Ch40s1/maze-solver)
+
 * Tech used:
- [![My Skills](https://skillicons.dev/icons?i=react,js,graphql,apollo,nodejs,mongodb)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
 
 <br>
 
-#### Ecommerce: Clothing Store
-[<img src="./img/NextStore.png" alt="website image" width="500px" heigth="300">](https://next-store-psi-rouge.vercel.app/)
+## Static Site Generator
+<img src="./images/static-site.png" alt="maze animation" width="500" height="500">
+
+link ➡️ [static-site-generator](https://github.com/Ch40s1/static_site_generator)
+
 * Tech used:
- [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,postgres)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=py,html,css)](https://skillicons.dev)
+
+
 
 
 ### Socials
